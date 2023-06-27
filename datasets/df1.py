@@ -1,9 +1,9 @@
+# encoding: utf-8
 """
 @author: mikwieczorek
 """
 
 from .bases import COCODatasetBase
-
 
 class DF1(COCODatasetBase):
     """
