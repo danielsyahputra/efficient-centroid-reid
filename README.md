@@ -1,5 +1,5 @@
 # Efficient Centroid Re-ID
-Modification of Centroid Re-ID for Consumer-to-Shop Retrieval Task Using EfficientNet-V2 for Smaller Model and Faster Training
+Experiment with Centroid Re-ID by Changing Backbone Using EfficientNet-V2 and Adding Re-Identification Based Data Augmentation
 
 # Requirements
 
@@ -69,5 +69,23 @@ Any kind of enhancement or contribution is welcomed.
 
 # Acknowledgments
 
+```
+@article{Wieczorek2021OnTU,
+  title={On the Unreasonable Effectiveness of Centroids in Image Retrieval},
+  author={Mikolaj Wieczorek and Barbara Rychalska and Jacek Dabrowski},
+  journal={ArXiv},
+  year={2021},
+  volume={abs/2104.13643}
+}
+```
+```
+@article{ReIDAugmentations,
+      title={A Person Re-identification Data Augmentation Method with Adversarial Defense Effect}, 
+      author={Yunpeng Gong and Zhiyong Zeng and Liwen Chen and Yifan Luo and Bin Weng and Feng Ye},
+      year={2021},
+      journal={ArXiv}
+      eprint={2101.08783},
+}
+```
 
 
